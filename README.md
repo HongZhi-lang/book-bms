@@ -1,4 +1,4 @@
-# book2
+# book
 
 ## Project setup
 ```
